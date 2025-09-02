@@ -32,4 +32,4 @@ A full-featured Task Management System where users can manage projects and tasks
 - `DELETE /api/tasks/{id}` - Delete task
 
 ## Author
-Your Name
+Deepen Mandve
